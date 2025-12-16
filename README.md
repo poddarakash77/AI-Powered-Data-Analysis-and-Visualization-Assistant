@@ -15,11 +15,11 @@ Prototyping AI Workflows: Quickly test and iterate on conversational data workfl
 Educational Tool: Learn about conversational AI, LangChain, and data science integration in Python.
 
 Project Structure
-scout — Core agent logic, tools for data access and visualization, and prompt templates.
-frontend — Scripts to run the chat agent locally (chat_local.py) or in a deployed environment (chat_deployed.py).
-pyproject.toml — Project dependencies and configuration.
-Dockerfile — Containerization support for deployment.
-.env — Environment variables for configuration (e.g., API keys, server URLs).
+scout — > Core agent logic, tools for data access and visualization, and prompt templates.
+frontend —>  Scripts to run the chat agent locally (chat_local.py) or in a deployed environment (chat_deployed.py).
+pyproject.toml —>  Project dependencies and configuration.
+Dockerfile —>  Containerization support for deployment.
+.env —>  Environment variables for configuration (e.g., API keys, server URLs).
 
 Common `uv` COMMANDS for This Project
 
