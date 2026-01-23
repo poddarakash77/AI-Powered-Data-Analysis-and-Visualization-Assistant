@@ -16,7 +16,7 @@ Educational Tool: Learn about conversational AI, LangChain, and data science int
 
 Project Structure:
 
-scout — > Core agent logic, tools for data access and visualization, and prompt templates.
+scout(backend) — > Core agent logic, tools for data access and visualization, and prompt templates.
 
 frontend —>  Scripts to run the chat agent locally (chat_local.py) or in a deployed environment (chat_deployed.py).
 
