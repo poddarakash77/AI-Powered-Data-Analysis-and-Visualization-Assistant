@@ -1,4 +1,4 @@
-# AI-Powered-Data-Analysis-and-Visualization-Assistant
+# AI AGENT For Data Analysis & Visalization
 
 This project, is a Python project that demonstrates how to build a conversational AI agent capable of data analysis and visualization using LangGraph, LangChain, and modern data science libraries. The project provides both local and deployed chat interfaces, making it suitable for experimentation, prototyping, and integration into larger data-driven applications.
 
